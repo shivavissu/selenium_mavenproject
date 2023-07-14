@@ -7,6 +7,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class LoginPage {
 
 	public static void main(String[] args) {
+		//https://github.com/shivavissu/selenium_mavenproject.git
+		// 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
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://the-internet.herokuapp.com/login");
 //	driver.findElement(By.id("username")).sendKeys("tomsmith");
